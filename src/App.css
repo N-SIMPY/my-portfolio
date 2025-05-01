@@ -1,0 +1,72 @@
+/* Add padding for all sections */
+.page {
+  padding: 40px 20px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  h1, h2 {
+    font-size: 1.5rem;
+  }
+  .projects-grid {
+    flex-direction: column;
+    gap: 15px;
+  }
+  .project-card {
+    width: 100%;
+  }
+}
+
+/* Navbar Styles */
+.navbar {
+  background-color: #333;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar-link {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.navbar-link:hover {
+  color: #f39c12;
+}
+
+.download-btn {
+  background-color: #f39c12;
+  padding: 8px 16px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 18px;
+}
+
+.download-btn:hover {
+  background-color: #e67e22;
+}
+
+/* Responsive for Mobile */
+@media (max-width: 768px) {
+  .navbar-links {
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+  }
+
+  .download-btn {
+    margin-top: 10px;
+  }
+  /* src/App.css */
+
+}
