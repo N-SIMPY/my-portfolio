@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.238c6b57.css",
+    "main.js": "/my-portfolio/static/js/main.0f2f67ed.js",
+    "static/media/fa-solid-900.ttf": "/my-portfolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/my-portfolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/background1.jpg": "/my-portfolio/static/media/background1.a7d0a00d47cd3a064863.jpg",
+    "static/media/fa-solid-900.woff2": "/my-portfolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/my-portfolio/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/Ritu.jpg.jpeg": "/my-portfolio/static/media/Ritu.jpg.6949f86e1aa364ce66e0.jpeg",
+    "static/media/fa-regular-400.ttf": "/my-portfolio/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/simpy_photo_small.jpg": "/my-portfolio/static/media/simpy_photo_small.79c3044afba2fb5e7623.jpg",
+    "static/media/fa-regular-400.woff2": "/my-portfolio/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/my-portfolio/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/my-portfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/my-portfolio/index.html",
+    "main.238c6b57.css.map": "/my-portfolio/static/css/main.238c6b57.css.map",
+    "main.0f2f67ed.js.map": "/my-portfolio/static/js/main.0f2f67ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.238c6b57.css",
+    "static/js/main.0f2f67ed.js"
+  ]
+}
