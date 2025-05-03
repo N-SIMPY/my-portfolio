@@ -70,3 +70,6 @@
   /* src/App.css */
 
 }
+html {
+  scroll-behavior: smooth;
+}
